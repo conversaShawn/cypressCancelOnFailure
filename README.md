@@ -1,1 +1,1 @@
-# cypressCancelOnFailure
+This is to test the Cypress Smart Orchestration feature that will cancel a run when a test fails.
